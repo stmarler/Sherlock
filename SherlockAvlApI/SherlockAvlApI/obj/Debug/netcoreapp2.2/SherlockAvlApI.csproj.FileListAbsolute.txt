@@ -1,0 +1,14 @@
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.csproj.CoreCompileInputs.cache
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.AssemblyInfoInputs.cache
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.AssemblyInfo.cs
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\bin\Debug\netcoreapp2.2\SherlockAvlApI.deps.json
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\bin\Debug\netcoreapp2.2\SherlockAvlApI.runtimeconfig.json
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\bin\Debug\netcoreapp2.2\SherlockAvlApI.runtimeconfig.dev.json
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\bin\Debug\netcoreapp2.2\SherlockAvlApI.dll
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\bin\Debug\netcoreapp2.2\SherlockAvlApI.pdb
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.csprojAssemblyReference.cache
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.RazorAssemblyInfo.cache
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.RazorAssemblyInfo.cs
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.RazorTargetAssemblyInfo.cache
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.dll
+C:\Projects\git\Sherlock\SherlockAvlApI\SherlockAvlApI\obj\Debug\netcoreapp2.2\SherlockAvlApI.pdb
